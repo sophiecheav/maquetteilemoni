@@ -28,6 +28,30 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
+/* en commentaires : éléments ajoutés par Françoise */
+
+/* .contact-us{
+background:black;/* ajoute*/
+/* height:70vh;
+width:50%;
+text-align:center;
+padding: 100px 50px;
+} */
+
+/* .container-fluid{ /*ajoute*/
+  /* background: #000;
+  height:100px;
+} */
+
+/* .container{ :
+  width:80%;
+  margin=0 auto;
+  background: red;
+  height:100px;//
+} */
+
+
 body {
 	line-height: 1;
 }
@@ -175,6 +199,7 @@ color: black;
 	padding: 0px 20% 0px 20%;
 	border-radius: 1px;
 }
+
 .flex{
 	display: flex;
 	align-items: center;
