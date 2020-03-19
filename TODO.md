@@ -9,3 +9,15 @@ Pour le suivi du projet : lister les tâches à réaliser
 - par partie
 - par responsable
 - par ordre de priorité, pourquoi pas en indiquant des dates limite
+
+TODO :
+
+Silvia :
+- Barre de nav : cliquable, css
+- Header : mise en forme
+
+Françoise :
+- bande jaune sur index : CSS
+
+Sophie :
+- footer : html, à insérer sur les 2 pages
